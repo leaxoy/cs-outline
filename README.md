@@ -1,2 +1,2 @@
-# book-outline
-Outline of books
+# cs-outline
+Outline of computer science.
